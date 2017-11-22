@@ -1,0 +1,11 @@
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.Properties.Resources.resources
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.csproj.GenerateResource.Cache
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.Form1.resources
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\bin\Debug\ImageLineDetection.exe.config
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\bin\Debug\ImageLineDetection.exe
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\bin\Debug\ImageLineDetection.pdb
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.exe
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.pdb
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\Brent.TGAViewer.resources
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\ImageLineDetection.csprojResolveAssemblyReference.cache
+d:\users\brent\documents\visual studio 2015\Projects\ImageLineDetection\ImageLineDetection\obj\Debug\Brent.DetectLines.resources
